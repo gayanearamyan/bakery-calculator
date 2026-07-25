@@ -35,6 +35,7 @@ The breakdown table shows which items earn you the most — useful when deciding
 - **Cost used** = the ingredients this order actually consumes. This is what's subtracted from revenue to get your profit.
 - **Cost to buy** = whole packages at the store (you can't buy 325 g of flour). The leftovers aren't wasted — they carry over to your next bake, so over time your real spending gets closer to "cost used."
 
+
 ## Quick tip
 
 Add the page to your phone's home screen (Share → Add to Home Screen) and it works like an app.
