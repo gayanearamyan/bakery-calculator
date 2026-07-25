@@ -1,6 +1,6 @@
 # Bake Day Calculator 🥖
 
-Your bakery's planning tool. Open the calculator here: **https://YOUR-USERNAME.github.io/bakery-calculator/**
+Your bakery's planning tool. Open the calculator here: **https://gayanearamyan.github.io/bakery-calculator/**
 
 Use it before every bake day to know exactly what to buy, what it costs, and what you'll earn.
 
